@@ -4,8 +4,8 @@ spring:
   cloud:
     nacos:
       discovery:
-        server-addr: 127.0.0.1:8848
-        
+        server-addr: ynyt-nacos.default:8848
+        namespace: 2edd9fd3-4e14-4015-af7d-e9c19c7fb3c6
 management:
   endpoints:
     web:

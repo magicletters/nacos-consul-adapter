@@ -1,4 +1,4 @@
-/.project
+.*
+!.gitignore
 /target/
-/.settings/
-/.classpath
+*.iml
